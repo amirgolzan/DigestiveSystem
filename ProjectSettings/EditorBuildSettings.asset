@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/BaseWorld_Character.unity
-    guid: bfc3822f4bec1504fb20189d48b74db0
+    path: Assets/Scenes/IntesitineTest.unity
+    guid: 201d3eb0968454924b1b775579920e2d
   m_configObjects: {}
