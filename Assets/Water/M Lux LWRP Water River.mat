@@ -15,7 +15,7 @@ Material:
   - _REFRACTION
   m_InvalidKeywords: []
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 1
+  m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
@@ -33,7 +33,7 @@ Material:
         m_Scale: {x: 0.25, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FoamMap:
-        m_Texture: {fileID: 2800000, guid: 67b60641204024dcfa5b302dc1c0c287, type: 3}
+        m_Texture: {fileID: 2800000, guid: 478479e68f1539d42a02a637f147d65a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -42,21 +42,21 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AddFoamFromNormal: 4
+    - _AddFoamFromNormal: -3.45
     - _Alpha: 1
     - _BumpScale: 1
     - _Culling: 0
     - _Density: 4.2
-    - _DiffuseNormalUp: 0.25
+    - _DiffuseNormalUp: 0.33
     - _DstBlend: 10
-    - _EdgeBlend: 3
+    - _EdgeBlend: 1.7
     - _EnableRefraction: 1
     - _EnvironmentReflections: 1
     - _Foam: 0
     - _FoamScale: 12
-    - _FoamSlopStrength: 0.5
-    - _FoamSmoothness: 0.5
-    - _FoamSoftIntersectionFactor: 1.16
+    - _FoamSlopStrength: 0.42
+    - _FoamSmoothness: 0.23
+    - _FoamSoftIntersectionFactor: 2.18
     - _FoamTiling: 6
     - _FoanScale: 12.97
     - _FresnelPower: 5
@@ -65,18 +65,18 @@ Material:
     - _Help: 1
     - _OrthoSpport: 0
     - _ReceiveShadows: 1
-    - _ReflectionBumpScale: 0.3
-    - _Refraction: 0.3
+    - _ReflectionBumpScale: 0.95
+    - _Refraction: 0.12
     - _Shadows: 0
-    - _Smoothness: 0.43
+    - _Smoothness: 0.47
     - _SpecularHighlights: 1
     - _ZTest: 4
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.7169812, g: 0.030437866, b: 0.05211823, a: 1}
+    - _Color: {r: 0.4433962, g: 0.027189402, b: 0.027189402, a: 1}
     - _FoamSpeed: {r: 0, g: 0.01, b: 0, a: 0}
     - _SecondaryTilingSpeed: {r: 2, g: 2.3, b: 0, a: 0}
     - _SecondaryTilingSpeedRefractBump: {r: 2, g: 2.3, b: 0.1, a: 1}
-    - _SpecColor: {r: 0.509434, g: 0.09556221, b: 0, a: 1}
-    - _Speed: {r: 0, g: 0.01, b: 0, a: 0}
+    - _SpecColor: {r: 0.67058825, g: 0.26816317, b: 0.12941176, a: 1}
+    - _Speed: {r: 0, g: 0.06, b: 0, a: 0}
   m_BuildTextureStacks: []

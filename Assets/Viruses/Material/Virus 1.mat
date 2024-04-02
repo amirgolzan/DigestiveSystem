@@ -91,7 +91,7 @@ Material:
     - _Overlay_Opacity: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: -0.12
+    - _Smoothness: -0.05
     m_Colors:
     - _Color_1: {r: 0.16202943, g: 0.006512091, b: 0.008568125, a: 1}
     - _Color_2: {r: 1, g: 0.28673548, b: 0.21960783, a: 0}
