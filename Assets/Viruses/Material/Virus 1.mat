@@ -91,11 +91,11 @@ Material:
     - _Overlay_Opacity: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: -1
+    - _Smoothness: -0.12
     m_Colors:
-    - _Color_1: {r: 0, g: 0, b: 0, a: 0}
-    - _Color_2: {r: 1, g: 0.25702488, b: 0.21960783, a: 0}
-    - _Color_3_Overlay: {r: 8.609495, g: 2.3971536, b: 0, a: 1}
+    - _Color_1: {r: 0.16202943, g: 0.006512091, b: 0.008568125, a: 1}
+    - _Color_2: {r: 1, g: 0.28673548, b: 0.21960783, a: 0}
+    - _Color_3_Overlay: {r: 8.609496, g: 1.904602, b: 0, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &5968857975579374677
 MonoBehaviour:
