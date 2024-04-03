@@ -94,8 +94,8 @@ Material:
     - _Smoothness: -0.48
     m_Colors:
     - _Color_1: {r: 0.12156863, g: 0, b: 0.017805237, a: 0}
-    - _Color_2: {r: 0.41568628, g: 0.058823522, b: 0.23010524, a: 0}
-    - _Color_3_Overlay: {r: 0.509434, g: 0.035438888, b: 0, a: 1}
+    - _Color_2: {r: 0.39871126, g: 0.058823522, b: 0.41568628, a: 0}
+    - _Color_3_Overlay: {r: 0.008166968, g: 0, b: 0.50980395, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &4093319469917637124
 MonoBehaviour:
