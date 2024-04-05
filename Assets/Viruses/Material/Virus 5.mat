@@ -108,7 +108,7 @@ Material:
     m_Colors:
     - _Color_1: {r: 15.058824, g: 15.058824, b: 15.058824, a: 0}
     - _Color_2: {r: 0.039546248, g: 0.039546248, b: 0.039546248, a: 0}
-    - _Color_3_Overlay: {r: 0, g: 0, b: 0, a: 1}
+    - _Color_3_Overlay: {r: 0.122641504, g: 0.100607075, b: 0.0977661, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &8501094180422374758
 MonoBehaviour:
